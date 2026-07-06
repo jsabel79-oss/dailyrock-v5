@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Daily Rock V5",
+    "slug": "dailyrock-v5",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.dailyrock.v5"
+    }
+  }
+}
